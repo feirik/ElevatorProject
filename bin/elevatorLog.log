@@ -1,0 +1,20 @@
+2018-02-22 20:37:42,381 INFO [default] INIT: Created 4 floors.
+2018-02-22 20:37:45,325 INFO [default] User selected to password protect the top floor.
+2018-02-22 20:37:46,469 INFO [default] User entered the elevator.
+2018-02-22 20:37:48,581 INFO [default] User selected floor number 3.
+2018-02-22 20:37:53,081 INFO [default] Elevator moved up to floor level 3.
+2018-02-22 20:37:59,133 INFO [default] User accessed restricted floor successfully.
+2018-02-22 20:38:00,676 INFO [default] User entered the elevator.
+2018-02-22 20:38:01,901 INFO [default] User selected floor number 3.
+2018-02-22 20:38:01,901 INFO [default] User selected to travel to same floor as elevator currently is at.
+2018-02-22 20:38:02,804 INFO [default] User selected to exit the program.
+2018-02-22 20:45:17,486 INFO [default] INIT: Created 5 floors.
+2018-02-22 20:45:24,814 INFO [default] User selected to password protect the top floor.
+2018-02-22 20:45:29,270 INFO [default] User entered the elevator.
+2018-02-22 20:45:42,221 INFO [default] User selected floor number 4.
+2018-02-22 20:45:48,221 INFO [default] Elevator moved up to floor level 4.
+2018-02-22 20:45:49,438 INFO [default] User accessed restricted floor successfully.
+2018-02-22 20:45:52,158 INFO [default] User entered the elevator.
+2018-02-22 20:45:53,558 INFO [default] User selected floor number 4.
+2018-02-22 20:45:53,558 INFO [default] User selected to travel to same floor as elevator currently is at.
+2018-02-22 20:45:54,278 INFO [default] User selected to exit the program.
